@@ -1,6 +1,6 @@
 <h1> Project Number 11 - Coffe Shop ☕✨ </h1>
 
-P10- Order Pizza - This file is about a project that uses CSS + HTML language. I learned about positon relative and absolute css propriety 😊😉.
+P11- Coffe Shop - This file is about a project that uses CSS + HTML language. I learned about positon relative and absolute css propriety 😊😉.
 This project contain lists, hyperlinks, a lot of background proprietors, fixed top, float baseboard and parallax efects.
 <a href = https://taiscostaeng.github.io/front-p10-order/> See Here </a>
 
@@ -15,7 +15,7 @@ This project contain lists, hyperlinks, a lot of background proprietors, fixed t
 <h2> 🎨 Layout </h2>
 
 <h3> 👩🏽‍💻 Desktop </h3>
-<img src= "" width="400">
+<img src= "https://github.com/taiscostaeng/front-p11-coffee-shop/assets/138815703/6deb9f3b-b17c-4494-85f2-64dbba723a79" width="600">
 
 <h3> 📱 Mobile </h3>
 This page isn't responsive.
